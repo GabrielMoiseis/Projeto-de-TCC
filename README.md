@@ -2,8 +2,7 @@
 Dispositivos IoT: Um Estudo Exploratório**
 
 **Caio Franco de Souza, Gabriel Moiseis Ferreira Lima e José Antônio Guides**
-**Orientador: Prof.º Me. Guilherme Werneck de Oliveira
-Coorientador: Prof.º Gabriel Vinicius Canzi Candido**
+
 
 **Orientador: Prof.º Me. Guilherme Werneck de Oliveira.
 Coorientador: Prof.º Gabriel Vinicius Canzi Candido.**
